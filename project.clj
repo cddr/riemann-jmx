@@ -7,4 +7,5 @@
                  [org.clojure/java.jmx "0.3.3"]
                  [clj-yaml "0.4.0"]
                  [riemann-clojure-client "0.4.4"]]
+  :uberjar-name "riemann-jmx.jar"
   :main riemann-jmx-clj.core)
